@@ -14,12 +14,12 @@
           "architecture": "esp8266",
           "version": "2.1.0-31-gefb48b7",
           "category": "ESP8266",
-          "url": "http://nextdevboard.github.io/Arduino/versions/2.1.0-31-gefb48b7/esp8266-2.1.0-31-gefb48b7.zip",
+          "url": "https://github.com/NextDevBoard/Arduino/versions/2.1.0-31-gefb48b7/esp8266-2.1.0-31-gefb48b7.zip",
           "archiveFileName": "esp8266-2.1.0-31-gefb48b7.zip",
           "checksum": "SHA-256:b2cb73babd1fe3556dcfc111d3bbbe24d9b2a815308dfdf6d00f242ddee99d84",
           "size": "7284971",
           "help": {
-            "online": "http://nextdevboard.github.io/Arduino/versions/2.1.0-31-gefb48b7/doc/reference.html"
+            "online": "https://github.com/NextDevBoard/Arduino/versions/2.1.0-31-gefb48b7/doc/reference.html"
           },
           "boards": [
             {
