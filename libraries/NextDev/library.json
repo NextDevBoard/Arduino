@@ -1,0 +1,16 @@
+{
+    "name": "NextDev",
+    "keywords": "Nextion, ui, mqtt, m2m, iot",
+    "description": "A API library for working with the NextDev UI IoT controller device.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NextDevBoard/Arduino.git"
+    },
+    "version": "0.9",
+    "exclude": "tests",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif"
+    ]
+}

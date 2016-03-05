@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For SpiSerial
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SpiUartDevice		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	 		KEYWORD2
+available	 	KEYWORD2
+read	 		KEYWORD2
+write	 		KEYWORD2
+ioSetDirection 		KEYWORD2
+ioSetState 		KEYWORD2
+ioGetState 		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

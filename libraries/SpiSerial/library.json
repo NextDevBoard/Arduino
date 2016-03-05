@@ -1,0 +1,17 @@
+{
+    "name": "SpiSerial",
+    "keywords": "SC16IS750, uart, serial",
+    "description": "A API Driver library for SC16IS750 SPI to UART device",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NextDevBoard/Arduino.git"
+    },
+    "version": "0.9",
+    "exclude": "tests",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "espressif",
+        "atmelavr"
+    ]
+}

@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For NextDev
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NextDev			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	 		KEYWORD2
+sendCommand 		KEYWORD2
+getPage 		KEYWORD2
+getIntVariable 		KEYWORD2
+getStringVariable 	KEYWORD2
+available	 	KEYWORD2
+getEvent	 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
