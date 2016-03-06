@@ -14,12 +14,12 @@
           "architecture": "esp8266",
           "version": "2.1.0-33-g88ac571",
           "category": "ESP8266",
-          "url": "https://github.com/NextDevBoard/Arduino/versions/2.1.0-33-g88ac571/esp8266-2.1.0-33-g88ac571.zip",
+          "url": "https://raw.githubusercontent.com/NextDevBoard/Arduino/versions/2.1.0-33-g88ac571/esp8266-2.1.0-33-g88ac571.zip",
           "archiveFileName": "esp8266-2.1.0-33-g88ac571.zip",
           "checksum": "SHA-256:c40c035aada7abea9bdeda1993d2b9357df9c5ebc075b8670abb1d5f3af3b13f",
           "size": "14572590",
           "help": {
-            "online": "https://github.com/NextDevBoard/Arduino/versions/2.1.0-33-g88ac571/doc/reference.html"
+            "online": "https://raw.githubusercontent.com/NextDevBoard/Arduino/versions/2.1.0-33-g88ac571/doc/reference.html"
           },
           "boards": [
             {
