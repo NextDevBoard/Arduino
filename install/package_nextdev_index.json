@@ -23,52 +23,7 @@
           },
           "boards": [
             {
-              "name": "Generic ESP8266 Module"
-            },
-            {
               "name": "NextDev 1.0 (ESP-12 Module)"
-            },
-            {
-              "name": "Olimex MOD-WIFI-ESP8266(-DEV)"
-            },
-            {
-              "name": "NodeMCU 0.9 (ESP-12 Module)"
-            },
-            {
-              "name": "NodeMCU 1.0 (ESP-12E Module)"
-            },
-            {
-              "name": "Adafruit HUZZAH ESP8266 (ESP-12)"
-            },
-            {
-              "name": "ESPresso Lite 1.0"
-            },
-            {
-              "name": "ESPresso Lite 2.0"
-            },
-            {
-              "name": "SparkFun Thing"
-            },
-            {
-              "name": "SweetPea ESP-210"
-            },
-            {
-              "name": "WeMos D1"
-            },
-            {
-              "name": "WeMos D1 mini"
-            },
-            {
-              "name": "ESPino (ESP-12 Module)"
-            },
-            {
-              "name": "ESPino (WROOM-02 Module)"
-            },
-            {
-              "name": "WifInfo"
-            },
-            {
-              "name": "ESPDuino"
             }
           ],
           "toolsDependencies": [

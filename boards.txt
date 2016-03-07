@@ -648,7 +648,7 @@ nodemcuv2.menu.FlashSize.4M1M.build.spiffs_pagesize=256
 nextdev.name=NextDev 1.0 (ESP-12 Module)
 
 nextdev.upload.tool=esptool
-nextdev.upload.speed=115200
+nextdev.upload.speed=921600
 nextdev.upload.resetmethod=nodemcu
 nextdev.upload.maximum_size=1044464
 nextdev.upload.maximum_data_size=81920
