@@ -2,9 +2,9 @@
   "packages": [
     {
       "name": "esp8266",
-      "maintainer": "ESP8266 Community",
-      "websiteURL": "https://github.com/esp8266/Arduino",
-      "email": "ivan@esp8266.com",
+      "maintainer": "NextDev Community",
+      "websiteURL": "https://github.com/NextDevBoard/Arduino",
+      "email": "molinariguy@gmail.com",
       "help": {
         "online": "http://esp8266.com/arduino"
       },

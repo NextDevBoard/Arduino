@@ -10,13 +10,13 @@ echo "Package name: $package_name"
 # Set REMOTE_URL environment variable to the address where the package will be
 # available for download. This gets written into package json file.
 if [ -z "$REMOTE_URL" ]; then
-    REMOTE_URL="http://localhost:8000"
+    REMOTE_URL="https://github.com/NextDevBoard/Arduino"
     echo "REMOTE_URL not defined, using default"
 fi
 echo "Remote: $REMOTE_URL"
 
 if [ -z "$PKG_URL" ]; then
-    PKG_URL="$REMOTE_URL/versions/$ver/$package_name.zip"
+    PKG_URL="$REMOTE_URL/raw/master/install/$package_name.zip"
 fi
 echo "Package: $PKG_URL"
 
@@ -55,7 +55,7 @@ mv SoftwareSerial $outdir/libraries
 
 # For compatibility, on OS X we need GNU sed which is usually called 'gsed'
 if [ "$(uname)" == "Darwin" ]; then
-    SED=gsed
+    SED=sed
 else
     SED=sed
 fi
@@ -89,7 +89,7 @@ jq ".packages[0].platforms[0].version = \"$ver\" | \
     .packages[0].platforms[0].checksum = \"SHA-256:$sha\" |\
     .packages[0].platforms[0].size = \"$size\" |\
     .packages[0].platforms[0].help.online = \"$DOC_URL\"" \
-    > package_esp8266com_index.json
+    > package_nextdev_index.json
 
 popd
 popd
