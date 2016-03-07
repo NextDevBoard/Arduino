@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "esp8266",
+      "name": "nextdev",
       "maintainer": "NextDev Community",
       "websiteURL": "https://github.com/NextDevBoard/Arduino",
       "email": "molinariguy@gmail.com",

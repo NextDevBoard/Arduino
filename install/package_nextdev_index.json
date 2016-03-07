@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "esp8266",
+      "name": "nextdev",
       "maintainer": "NextDev Community",
       "websiteURL": "https://github.com/NextDevBoard/Arduino",
       "email": "molinariguy@gmail.com",
@@ -12,14 +12,14 @@
         {
           "name": "esp8266",
           "architecture": "esp8266",
-          "version": "2.1.0-39-geeded69",
+          "version": "2.1.0-41-g1ab8e40",
           "category": "ESP8266",
-          "url": "https://github.com/NextDevBoard/Arduino/raw/master/install/esp8266-2.1.0-39-geeded69.zip",
-          "archiveFileName": "esp8266-2.1.0-39-geeded69.zip",
-          "checksum": "SHA-256:4d69d5c72d2041d416419bf12cbf962e7cea6cb8a007fd42104a837a3456fb12",
-          "size": "14574371",
+          "url": "https://github.com/NextDevBoard/Arduino/raw/master/install/nextdev-2.1.0-41-g1ab8e40.zip",
+          "archiveFileName": "nextdev-2.1.0-41-g1ab8e40.zip",
+          "checksum": "SHA-256:5ab7e61c82deaf74c3d0c32259a20598950059b9532638852cb5ab7bc041145e",
+          "size": "21863401",
           "help": {
-            "online": "https://github.com/NextDevBoard/Arduino/versions/2.1.0-39-geeded69/doc/reference.html"
+            "online": "https://github.com/NextDevBoard/Arduino/versions/2.1.0-41-g1ab8e40/doc/reference.html"
           },
           "boards": [
             {

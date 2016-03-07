@@ -3,7 +3,7 @@
 
 # Figure out how will the package be called
 ver=`git describe --tags --always`
-package_name=esp8266-$ver
+package_name=nextdev-$ver
 echo "Version: $ver"
 echo "Package name: $package_name"
 
