@@ -28,17 +28,17 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "esp8266",
+              "packager": "nextdev",
               "name": "esptool",
               "version": "0.4.8"
             },
             {
-              "packager": "esp8266",
+              "packager": "nextdev",
               "name": "xtensa-lx106-elf-gcc",
               "version": "1.20.0-26-gb404fb9-2"
             },
             {
-              "packager": "esp8266",
+              "packager": "nextdev",
               "name": "mkspiffs",
               "version": "0.1.2"
             }
